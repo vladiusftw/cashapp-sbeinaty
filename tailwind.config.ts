@@ -10,6 +10,9 @@ module.exports = {
     ],
     theme: {
         extend: {
+            height: {
+                screen: '100dvh',
+            },
             colors: {
                 'brand-100': 'var(--theme-default)',
                 'brand-200': 'var(--theme-default2)',

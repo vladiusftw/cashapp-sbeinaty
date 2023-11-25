@@ -40,7 +40,7 @@ const Investing = (props: Props) => {
                             alt="stocks"
                             width={160}
                             height={344}
-                            className="w-auto md:w-[160px] animate-flip"
+                            className="w-[100px] md:w-[160px] animate-flip"
                         />
                     </div>
 
@@ -60,7 +60,7 @@ const Investing = (props: Props) => {
                             alt="stocks"
                             width={160}
                             height={344}
-                            className="w-auto md:w-[160px] animate-flip"
+                            className="w-[100px] md:w-[160px] animate-flip"
                         />
                     </div>
                 </div>

@@ -35,7 +35,7 @@ const Boost = (props: Props) => {
                             alt="phone"
                             width={250}
                             height={509}
-                            className="w-auto md:w-[250px]"
+                            className="w-[150px] md:w-[250px]"
                         />
                     </AnimatedContainer>
                 </div>

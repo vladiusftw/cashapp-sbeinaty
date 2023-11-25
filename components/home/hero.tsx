@@ -24,7 +24,7 @@ const Hero = (props: Props) => {
         >
             <div
                 className={`bg-black flex flex-col overflow-hidden items-center absolute top-0 transition-all duration-500 ease-in-out left-0 z-40 w-full h-full ${
-                    isOpen ? 'max-w-full p-12 ' : 'max-w-0'
+                    isOpen ? 'max-w-full p-2 ' : 'max-w-0'
                 } lg:hidden`}
             >
                 <div className="flex lg:hidden z-50 self-end ">
@@ -164,7 +164,7 @@ const Hero = (props: Props) => {
                         alt="cubes"
                         width={188}
                         height={176}
-                        className=" w-auto lg:w-[188px] animate-shrink"
+                        className=" w-[120px] lg:w-[188px] animate-shrink"
                     />
                 </AnimatedContainer>
             </div>

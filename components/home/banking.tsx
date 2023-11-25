@@ -35,7 +35,7 @@ const Banking = (props: Props) => {
                             alt="phone"
                             width={350}
                             height={407}
-                            className="animate-float w-fit md:w-[350px]"
+                            className="animate-float w-[250px] md:w-[350px]"
                         />
                     </AnimatedContainer>
                 </div>
