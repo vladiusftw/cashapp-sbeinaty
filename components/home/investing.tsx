@@ -68,7 +68,7 @@ const Investing = (props: Props) => {
             <AnimatedContainer
                 initialClassName=" translate-y-[200px] "
                 whileInViewClassName="translate-x-0 translate-y-0"
-                transitionClassName={` duration-[600ms] h-full transition-all ease-in-out flex flex-col sm:flex-row sm:items-center justify-end sm:justify-between pb-4 px-4 w-full gap-5 self-start relative  ${aclonica.className}`}
+                transitionClassName={` duration-[600ms] h-full transition-all ease-in-out flex flex-col sm:flex-row sm:items-end justify-end sm:justify-between pb-4 px-4 w-full gap-5 self-start relative  ${aclonica.className}`}
                 className="w-full h-full 2xl:h-[40%] relative"
             >
                 <Image
