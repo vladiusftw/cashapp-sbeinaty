@@ -193,7 +193,7 @@ const Banking = (props: Props) => {
                 initialClassName="translate-y-[200px]  "
                 whileInViewClassName=" translate-y-0 "
                 transitionClassName=" duration-[1200ms] transition-all ease-in-out"
-                className="absolute bottom-[-16%] right-[20%]"
+                className="absolute bottom-[-100px] right-[20%]"
             >
                 <Image
                     src={'/banking-hole.png'}
