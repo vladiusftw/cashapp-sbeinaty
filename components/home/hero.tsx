@@ -145,9 +145,9 @@ const Hero = (props: Props) => {
                         </span>
 
                         <div className="flex items-center gap-5 w-full sm:w-fit justify-end">
-                            <Twitch />
-                            <Twitter />
-                            <Instagram />
+                            <Twitch className="fill-white" />
+                            <Twitter className="fill-white" />
+                            <Instagram className="fill-white" />
                         </div>
                     </div>
                 </div>
